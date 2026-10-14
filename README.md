@@ -66,3 +66,7 @@ src/
         ├── input-view.fxml
         └── main-view.fxml
 ```
+
+## License
+
+Original code and documentation authored by Jakkarin Promsee are licensed under the [MIT License](LICENSE). Third-party code, assets, datasets, and other materials are not covered by this license; their original terms apply.
